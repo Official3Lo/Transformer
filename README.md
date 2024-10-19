@@ -11,7 +11,8 @@ A Tranformer model architecture coded from scratch using PyTorch following Umar 
 - Data preprocessing pipeline
 - Training and evaluation scripts
 - Jupyter notebooks for experimentation
-
+- For English and Italian languages only
+- Calculate translation...
 
 ### Prerequisites
 - Python 3.8+
