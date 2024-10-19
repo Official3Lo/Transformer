@@ -15,11 +15,17 @@ A Tranformer model architecture coded from scratch using PyTorch following Umar 
 - Calculate translation...
 
 ### Prerequisites
-- Python 3.8+
-- PyTorch
-- Tensorflow
-- HuggingFace libraries
-- [Other dependencies, e.g., CUDA for GPU support]
+- python 3.9
+- torch 2.0.1
+- torchvision 0.15.2 
+- torchaudio 2.0.2
+- torchtext 0.15.2
+- datasets 2.15.0
+- tokenizers 0.13.3
+- torchmetrics 1.0.3
+- tensorboard 2.13.0
+- altair 5.1.1
+- wandb 0.15.9
 
 
 ## License
