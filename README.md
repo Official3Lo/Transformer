@@ -1,4 +1,4 @@
-# Sit's Amazing & Simple Yet Complex Transformer
+# Transformer
 
 ![Alt Text](https://github.com/Official3Lo/SIT-Transformer/blob/main/Transformer_Model.PNG)
 
